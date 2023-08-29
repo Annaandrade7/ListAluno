@@ -1,0 +1,15 @@
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\bin\Debug\net6.0\ListdeAluno.exe
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\bin\Debug\net6.0\ListdeAluno.deps.json
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\bin\Debug\net6.0\ListdeAluno.runtimeconfig.json
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\bin\Debug\net6.0\ListdeAluno.dll
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\bin\Debug\net6.0\ListdeAluno.pdb
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.csproj.AssemblyReference.cache
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.AssemblyInfoInputs.cache
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.AssemblyInfo.cs
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.csproj.CoreCompileInputs.cache
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.dll
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\refint\ListdeAluno.dll
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.pdb
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ListdeAluno.genruntimeconfig.cache
+C:\Users\2022102020079\source\repos\ListdeAluno\ListdeAluno\obj\Debug\net6.0\ref\ListdeAluno.dll
